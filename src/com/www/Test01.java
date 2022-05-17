@@ -9,11 +9,13 @@ package com.www;/*
 
 public class Test01 {
 
-    int x;
-    int y;
+    int x =0;
+    int y =1;
 
     public static void main(String[] args) {
+
         System.out.println("Hello,GitHub");
+
     }
 
 }
